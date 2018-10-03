@@ -3,7 +3,6 @@ h1{
   font-family: fantasy;
   text-align: center;
   color: Khaki;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
 }
 h2{
   font-size: 50px;
@@ -27,4 +26,7 @@ td{
 }
 p{
   font-size: 35px;
+}
+.top{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
 }
