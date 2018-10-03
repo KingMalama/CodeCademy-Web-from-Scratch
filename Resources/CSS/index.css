@@ -1,0 +1,30 @@
+h1{
+  font-size: 100px;
+  font-family: fantasy;
+  text-align: center;
+  color: Khaki;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+h2{
+  font-size: 50px;
+  font-family: cursive arial;
+  color: SeaGreen;
+}
+nav{
+  font-size: 33px;
+  font-family: fantasy;
+  text-align: center;
+  transition-delay: DarkGreen;
+  background-color: White;
+
+}
+table, tr{
+  border: 2px black solid;
+}
+td{
+  text-align: center;
+  font-size: 45px;
+}
+p{
+  font-size: 35px;
+}
